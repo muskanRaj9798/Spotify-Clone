@@ -2,7 +2,7 @@ import NextAuth from "next-auth"
 import SpotifyProvider from "next-auth/providers/spotify"
 import fetch from "node-fetch";
 
-const scopes = [
+const scopes = [   // permisson i'm asking
     "user-read-email",
     "playlist-read-private",
     "playlist-read-collaborative",

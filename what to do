@@ -1,0 +1,23 @@
+npx create-react-app my-react-app  -- for react
+npm install express mongoose nodemon
+
+npx create-next-app@latest, not using typescript
+
+npm run dev == to start next
+The tailwind.config.js file is responsible for customizing and configuring various aspects of the Tailwind CSS framework.
+It allows you to modify default settings, extend or override existing configurations, add custom styles, and enable 
+or disable specific features.
+
+npm install next-auth == by using developer.spotify.com => spotify_client id, spotify_client secret
+NextAuth.js simplifies the implementation of authentication in Next.js applications by providing a unified API and pre-built integrations with popular authentication providers.
+
+npm i node-fetch
+Node-fetch is a popular JavaScript library used for making HTTP requests in Node.js environments. It is 
+a light-weight module that provides a fetch-like API for making HTTP requests to external resources such as APIs, web services, or other servers.
+
+JWT Callback
+This callback is called whenever a JSON Web Token is created (i.e. at sign in) or updated (i.e whenever a 
+session is accessed in the client). The returned value will be encrypted, and it is stored in a cookie.
+
+npm install @heroicons/react
+
