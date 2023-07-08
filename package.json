@@ -2,7 +2,7 @@
   "name": "spotify-2-0",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://muskanRaj9798.github.io/Spotify-Clone", 
+  "homepage": "http://muskanRaj9798.github.io/Spotify-Clone",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
